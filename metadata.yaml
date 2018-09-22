@@ -1,0 +1,29 @@
+_repo: The-Prisoners-of-Mainz_54203
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Roussel, R. T.
+    gutenberg_agent_id: '47767'
+    url: http://www.gutenberg.org/2009/agents/47767
+creator:
+  author:
+    agent_name: Waugh, Alec
+    alias: Waugh, Alexander Raban
+    birthdate: 1898
+    deathdate: 1981
+    gutenberg_agent_id: '8306'
+    url: http://www.gutenberg.org/2009/agents/8306
+    wikipedia: http://en.wikipedia.org/wiki/Alec_Waugh
+description: ''
+gutenberg_issued: '2017-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Prisoners of Mainz
+url: http://www.gutenberg.org/ebooks/54203
