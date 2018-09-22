@@ -1,10 +1,13 @@
 _repo: The-Prisoners-of-Mainz_54203
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Roussel, R. T.
     gutenberg_agent_id: '47767'
     url: http://www.gutenberg.org/2009/agents/47767
+covers:
+- cover_type: archival
+  image_path: 54203-h/images/cover.jpg
 creator:
   author:
     agent_name: Waugh, Alec
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8306
     wikipedia: http://en.wikipedia.org/wiki/Alec_Waugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54203#The-Prisoners-of-Mainz
 gutenberg_issued: '2017-02-20'
 gutenberg_type: Text
 identifiers:
